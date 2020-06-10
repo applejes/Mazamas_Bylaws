@@ -16,7 +16,9 @@ The Mazamas is organized and shall be operated exclusively for charitable, educa
 **Section 1.** There shall be three classes of members:
 
 a. Annual member – Application for membership shall be open to any person who supports the purpose statement in Article II and whose values are congruent with those of the Mazamas. Continuing membership is contingent upon being up-to-date on membership dues.
+
 b. Life member - Any annual member, whose dues have been paid for the current year, may become a life member by paying an amount equal to twenty five times the current annual dues, and life members are not required to pay annual dues.
+
 c. Honorary member - Persons who have rendered distinguished service to the Mazamas or who are eminent for achievement over a period of not less than ten years in climbing, conservation, exploration, scientific research or outdoor activities, shall be eligible for honorary recognition by the Mazamas. Honorary members shall not be required to pay dues, but shall have all other rights and privileges of membership. Executive Council has authority to grant Annual or Life member status to an Honorary member.
 
 **Section 2.** Applications for annual or life membership shall be accompanied by the required dues and initiation fee as set out in the Mazamas Policies and Procedures. All annual dues following the original application for membership shall be payable in advance and due at the beginning of the fiscal year.
@@ -48,9 +50,13 @@ c. Honorary member - Persons who have rendered distinguished service to the Maza
 **Section 4. Board Action Using Email.** The Board may make decisions by email if a motion is approved by the affirmative vote of a majority of the directors in office. Certain procedures must be followed for email voting.
 
 (a) All directors must provide an email address.
+
 (b) Email notice to directors must describe proposed action and when it will be effective. 
+
 \(c\)   Must give directors at least 48 hours to vote. (d) Directors can change their vote anytime up to deadline.
+
 (e) An affirmative vote of majority of directors in office is needed to pass the proposed action. 
+
 (f) Record of notice and email vote must be kept in minutes. 
 
 **Section 5. Notice.** Notice of an official Board meeting shall be posted on the website or published in the Mazamas publication.
@@ -99,16 +105,24 @@ c. Honorary member - Persons who have rendered distinguished service to the Maza
 
 **Section 1. Officer and Director Liability**
 No director or uncompensated officer shall be personally liable to the corporation for monetary damages for conduct as a director or officer, except for:
+
 (a) Any breach of the director’s or officer’s duty or loyalty to the corporation;
+
 (b) Acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law;
+
 \(c\) Any unlawful distribution;
+
 (d) Any transaction from which the director or officer derived an improper personal benefit; and
+
 (e) Any act or omission in violation of ORS Section 65.361, 65.364, or 65.367.
 
 **Section 2. Indemnification of Directors, Officers, Employees or Agents**
 The corporation shall indemnify any individual made a party to a proceeding because the individual is or was a director, officer, employee or agent of the corporation against liability incurred in the proceeding if:
+
 (a) The conduct of the individual was in good faith;
+
 (b) The individual reasonably believed that the individual’s conduct was in the best interest of the corporation, or at least not opposed to its best interest; and
+
 \(c\) In the case of any criminal proceedings, the individual had no reasonable cause to believe the conduct of the individual was unlawful.
 
 
@@ -123,8 +137,11 @@ It is essential that the work of the Mazamas not be compromised by any conflict 
 Upon the consideration of any proposed transaction in which the board member or staff member has a conflict of interest, it is the responsibility of the board member or staff member to disclose such conflict. Such transactions include, but are not limited to, grants, loans, contracts, purchases, and rental agreements. The board member or staff member shall abstain from discussing or voting on, or otherwise attempting to influence the decision on the proposed transaction with respect to which the board member or staff member has a conflict of interest, but may provide information if requested to do so.
 
 A board member or staff member has a conflict of interest in connection with a transaction if:
+
 (a) The board member or staff member is (or expects following the transaction with the Mazamas to become) a board member, employee or consultant for a nonprofit or for-profit organization that is a party to the transaction;
+
 (b) The board member or staff member has a material financial interest in a party to the transaction; or
+
 \(c\) The board member or staff member has an immediate family connection by blood, marriage or significant long term relationship with a person affiliated with an organization that may benefit from approval of a financial transaction with the Foundation. 
 
 
