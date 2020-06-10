@@ -41,7 +41,7 @@ c. Honorary member - Persons who have rendered distinguished service to the Maza
 
 ## ARTICLE V – BOARD OF DIRECTORS
 
-**Section 1. Board Role, Size, Composition.** The Mazamas Board of Directors (Board) is responsible for business affairs and overall policy and direction of the Mazamas and delegates responsibility for day-to-day operations to the Mazamas Executive Director and committees. The Board shall be subject to the Bylaws of the Mazamas and its actions shall comply with motions approved by the voting members. The Board shall be made up of twelve directors. Nine directors must be Mazamas members voted in by membership. The other three directors do not have to be Mazamas members but have a special skill or experience that is viewed as beneficial to the Mazamas.
+**Section 1. Board Role, Size, and Composition.** The Mazamas Board of Directors (Board) is responsible for business affairs and overall policy and direction of the Mazamas and delegates responsibility for day-to-day operations to the Mazamas Executive Director and committees. The Board shall be subject to the Bylaws of the Mazamas and its actions shall comply with motions approved by the voting members. The Board shall be made up of twelve directors. Nine directors must be Mazamas members voted in by membership. The other three directors do not have to be Mazamas members but have a special skill or experience that is viewed as beneficial to the Mazamas.
 
 **Section 2. Board of Director Elections and Terms.** Three of the nine Directors shall be elected each year at the annual election for a term of three years. No Director shall be eligible for another election to the Board of Directors until one year has elapsed after completion of one full term. Vacancies for an unexpired term on the Board shall be filled by a majority vote of all the remaining Directors. The Board of Directors receive no compensation other than reimbursement of reasonable expenses.
 
@@ -53,7 +53,9 @@ c. Honorary member - Persons who have rendered distinguished service to the Maza
 
 (b) Email notice to directors must describe proposed action and when it will be effective. 
 
-\(c\)   Must give directors at least 48 hours to vote. (d) Directors can change their vote anytime up to deadline.
+\(c\) Must give directors at least 48 hours to vote.
+
+(d) Directors can change their vote anytime up to deadline.
 
 (e) An affirmative vote of majority of directors in office is needed to pass the proposed action. 
 
